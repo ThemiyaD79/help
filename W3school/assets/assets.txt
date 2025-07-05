@@ -1,7 +1,0 @@
-background.png
-default.fnt
-default.png
-libgdx.png
-uiskin.atlas
-uiskin.json
-uiskin.png
